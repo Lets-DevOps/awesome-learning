@@ -1,4 +1,14 @@
-# awesome-learning
+# awesome-learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+[![Build Status](https://travis-ci.org/TheRemoteLab/awesome-learning.svg?branch=master)](https://travis-ci.org/TheRemoteLab/awesome-learning)
+
+# Menu:  
+* [Prerequisites](#infrastructre-as-code)
+* [Languages](#languages)
+* [Contributing](#contributing)
+* [License](#license)
+
+## Prerequisites
 
 ### Infrastructre as Code
 
@@ -41,6 +51,8 @@
 * http://semver.org/ - versioning basics
 * http://stackoverflow.com/questions/3611256/forking-vs-branching-in-github
 * http://stackoverflow.com/questions/19333088/how-is-svn-v-1-8-branching-merging-compared-to-git
+
+## Languages:
 
 ### Golang
 
