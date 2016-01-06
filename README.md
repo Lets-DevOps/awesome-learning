@@ -1,6 +1,6 @@
 # awesome-learning
 
-## Infrastructre as Code
+### Infrastructre as Code
 
 * https://atomic-penguin.github.io/blog/2014/04/29/stupid-jenkins-and-chef-tricks-part-1-rubocop/
 * https://atomic-penguin.github.io/blog/2014/05/16/stupid-jenkins-tricks-part-2-cookbook-pipelines/
@@ -21,3 +21,32 @@
 * https://github.com/chef/chef-summit-2014/wiki/Workflow-Best-Practices
 * http://railsware.com/blog/2013/02/21/chef-dos-and-donts/
 * https://www.chef.io/blog/2015/04/21/overview-of-test-driven-infrastructure-with-chef/
+
+### AWS
+
+* https://cloudonaut.io/5-aws-mistakes-you-should-avoid/
+
+### CI/CD
+
+* http://blogs.atlassian.com/tag/cd-skeptics/
+* http://www.devopsdays.org/blog/wp-content/uploads/2010/11/jez-humble-continuous_delivery_devopsdays_2010.pdf
+* https://blog.codecentric.de/en/2015/01/continuous-delivery-microservices-jenkins-job-dsl-plugin/
+* https://blog.codecentric.de/en/2015/10/continuous-integration-platform-using-docker-container-jenkins-sonarqube-nexus-gitlab/
+
+### Git Workflows
+
+* https://guides.github.com/activities/contributing-to-open-source/
+* https://www.atlassian.com/git/tutorials/comparing-workflows/
+* https://vimeo.com/channels/githubguides
+* http://semver.org/ - versioning basics
+* http://stackoverflow.com/questions/3611256/forking-vs-branching-in-github
+* http://stackoverflow.com/questions/19333088/how-is-svn-v-1-8-branching-merging-compared-to-git
+
+### Golang
+
+* https://github.com/avelino/awesome-go
+* https://tour.golang.org/
+
+### Distributed Systems
+
+* http://bravenewgeek.com/distributed-systems-are-a-ux-problem/
