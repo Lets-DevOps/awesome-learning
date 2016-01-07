@@ -35,6 +35,7 @@
 ### AWS
 
 * https://cloudonaut.io/5-aws-mistakes-you-should-avoid/
+* https://cloudnative.io/blog/2015/03/aws-route-53-best-practices/
 
 ### CI/CD
 
