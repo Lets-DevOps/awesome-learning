@@ -1,13 +1,18 @@
 # awesome-learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/TheRemoteLab/awesome-learning.svg?branch=master)](https://travis-ci.org/TheRemoteLab/awesome-learning)
 
-... because learning stuff is awesome
+... because learning devops is awesome
 
 ![learning](https://cloud.githubusercontent.com/assets/8342133/12172223/a0db04b8-b575-11e5-9dfd-51fbf7c58de8.gif)
 
 
 # Menu:  
 * [Prerequisites](#infrastructre-as-code)
+* [Cloud Services](#cloud-services)
 * [Languages](#languages)
+* [Books](#books) :books:
+* [Slide Presentations](#slide-presentations)
+* [Videos](#videos) :tv:
+* [Conferences](#conferences)
 * [Contributing](#contributing)
 * [License](#license)
 
@@ -35,11 +40,6 @@
 * http://railsware.com/blog/2013/02/21/chef-dos-and-donts/
 * https://www.chef.io/blog/2015/04/21/overview-of-test-driven-infrastructure-with-chef/
 
-### AWS
-
-* https://cloudonaut.io/5-aws-mistakes-you-should-avoid/
-* https://cloudnative.io/blog/2015/03/aws-route-53-best-practices/
-
 ### CI/CD
 
 * http://blogs.atlassian.com/tag/cd-skeptics/
@@ -56,6 +56,13 @@
 * http://stackoverflow.com/questions/3611256/forking-vs-branching-in-github
 * http://stackoverflow.com/questions/19333088/how-is-svn-v-1-8-branching-merging-compared-to-git
 
+## Cloud Services:
+
+### AWS
+
+* https://cloudonaut.io/5-aws-mistakes-you-should-avoid/
+* https://cloudnative.io/blog/2015/03/aws-route-53-best-practices/
+
 ## Languages:
 
 ### Golang
@@ -66,6 +73,16 @@
 ### Distributed Systems
 
 * http://bravenewgeek.com/distributed-systems-are-a-ux-problem/
+
+## Books:
+
+* https://github.com/stack72/ops-books
+
+## Slide Presentations:
+
+## Videos:
+
+## Conferences:
 
 ## Contributing:
 Contributions are most welcome!
