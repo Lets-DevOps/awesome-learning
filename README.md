@@ -55,6 +55,7 @@
 * http://semver.org/ - versioning basics
 * http://stackoverflow.com/questions/3611256/forking-vs-branching-in-github
 * http://stackoverflow.com/questions/19333088/how-is-svn-v-1-8-branching-merging-compared-to-git
+* https://julien.danjou.info/blog/2013/rant-about-github-pull-request-workflow-implementation - Git Pull-Request Vs Gerrit
 
 ## Cloud Services:
 
