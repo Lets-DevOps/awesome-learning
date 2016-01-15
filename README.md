@@ -63,6 +63,7 @@
 
 * https://cloudonaut.io/5-aws-mistakes-you-should-avoid/
 * https://cloudnative.io/blog/2015/03/aws-route-53-best-practices/
+* [A Beginner's Guide to Scaling to 11 Million+ Users on Amazon's AWS](http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html)
 
 ## Languages:
 
