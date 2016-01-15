@@ -5,7 +5,7 @@
 ![learning](https://cloud.githubusercontent.com/assets/8342133/12172223/a0db04b8-b575-11e5-9dfd-51fbf7c58de8.gif)
 
 
-# Menu:  
+# Menu:
 * [Prerequisites](#infrastructre-as-code)
 * [Cloud Services](#cloud-services)
 * [Languages](#languages)
@@ -63,6 +63,17 @@
 
 * https://cloudonaut.io/5-aws-mistakes-you-should-avoid/
 * https://cloudnative.io/blog/2015/03/aws-route-53-best-practices/
+* [A Beginner's Guide to Scaling to 11 Million+ Users on Amazon's AWS](http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html)
+
+### Containers
+
+* [http://omerio.com/2015/12/18/learn-the-kubernetes-key-concepts-in-10-minutes/](Learn the Kubernetes Key Concepts in 10 Minutes)
+* [https://github.com/ClusterHQ/dvol](Version control your development databases in docker)
+
+### DevOps Culture
+
+* [http://laughingmeme.org/2015/08/31/five-years-building-a-culture-and-handing-it-off/](Five years, building a culture, and handing it off)
+* [http://www.thoughtsoncloud.com/2015/10/3-characteristics-of-an-effective-cloud-developer/](3 characteristics of an effective cloud developer)
 
 ## Languages:
 
