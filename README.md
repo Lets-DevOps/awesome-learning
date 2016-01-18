@@ -75,6 +75,10 @@
 * [http://laughingmeme.org/2015/08/31/five-years-building-a-culture-and-handing-it-off/](Five years, building a culture, and handing it off)
 * [http://www.thoughtsoncloud.com/2015/10/3-characteristics-of-an-effective-cloud-developer/](3 characteristics of an effective cloud developer)
 
+## Scalability
+
+* [https://gist.github.com/acolyer/95ef23802803cb8b4eb5](Internet Scale Services Checklist)
+
 ## Languages:
 
 ### Golang
