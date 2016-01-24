@@ -81,6 +81,14 @@
 
 ## Languages:
 
+### Python
+
+* Python 2.7 - https://docs.python.org/2/tutorial/
+
+### Ruby
+
+* http://tryruby.org/levels/1/challenges/0
+
 ### Golang
 
 * https://github.com/avelino/awesome-go
@@ -89,6 +97,13 @@
 ### Distributed Systems
 
 * http://bravenewgeek.com/distributed-systems-are-a-ux-problem/
+
+## Bots:
+
+* Lita - https://www.lita.io/
+* Err - http://errbot.io/
+
+
 
 ## Books:
 
