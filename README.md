@@ -18,7 +18,7 @@
 
 ## Prerequisites
 
-### Infrastructre as Code
+### Infrastructure as Code
 
 * https://atomic-penguin.github.io/blog/2014/04/29/stupid-jenkins-and-chef-tricks-part-1-rubocop/
 * https://atomic-penguin.github.io/blog/2014/05/16/stupid-jenkins-tricks-part-2-cookbook-pipelines/
@@ -65,6 +65,14 @@
 
 ## Languages:
 
+### Python
+
+* Python 2.7 - https://docs.python.org/2/tutorial/
+
+### Ruby
+
+* http://tryruby.org/levels/1/challenges/0
+
 ### Golang
 
 * https://github.com/avelino/awesome-go
@@ -73,6 +81,11 @@
 ### Distributed Systems
 
 * http://bravenewgeek.com/distributed-systems-are-a-ux-problem/
+
+## Bots:
+
+* Lita - https://www.lita.io/
+* Err - http://errbot.io/
 
 ## Books:
 
