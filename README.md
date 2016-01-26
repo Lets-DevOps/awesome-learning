@@ -10,11 +10,11 @@
 
 
 
-| [Philosophy](#philosophy) :thought_balloon: | [Processes](#processes) :speech_balloon: | [Source Code Management](#source-code-management) :octocat: | [Build Automation](#build-automation) :arrows_counterclockwise: | [Continuous Integration](#continuos-integration) :arrows_counterclockwise: | [Continuous Delivery](#continuous-delivery) :arrows_counterclockwise: |
+| [Philosophy](#philosophy) :thought_balloon: | [Processes](#processes) :speech_balloon: | [Source Code Management](#source-code-management) :octocat: | [Build Automation](#build-automation) :arrows_counterclockwise: | [Continuous Integration](#continuous-integration) :arrows_counterclockwise: | [Continuous Delivery](#continuous-delivery) :arrows_counterclockwise: |
 |---------------------------------------------|------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------------|
 |                                             |                                          |                                                             |                                                                 |                                                                            |                                                                       |
 
-| [Infrastructure As Code](#infrastructre-as-code) :loop: | [Monitoring](#monitoring) :bar_chart: | [Logging](#logging) :page_facing_up: | [IAAS Providers](#iaas-providers) :cloud: | [PAAS Providers](#paas-providers) :cloud: | [Containerisation](#containerisation) :ship: |
+| [Infrastructure As Code](#infrastructure-as-code) :loop: | [Monitoring](#monitoring) :bar_chart: | [Logging](#logging) :page_facing_up: | [IAAS Providers](#iaas-providers) :cloud: | [PAAS Providers](#paas-providers) :cloud: | [Containerisation](#containerisation) :ship: |
 |---------------------------------------------------------|---------------------------------------|--------------------------------------|-------------------------------------------|-------------------------------------------|----------------------------------------------|
 |                                                         |                                       |                                      |                                           |                                           |                                              |
 
@@ -28,7 +28,9 @@
 * [License](#license)
 
 ## Philosophy
+
 ## Processes
+
 ## Source Code Management
 
 * https://guides.github.com/activities/contributing-to-open-source/
@@ -39,19 +41,20 @@
 * http://stackoverflow.com/questions/19333088/how-is-svn-v-1-8-branching-merging-compared-to-git
 * https://julien.danjou.info/blog/2013/rant-about-github-pull-request-workflow-implementation - Git Pull-Request Vs Gerrit
 
-## Build Automation
-## Continuous Integration
+## Build Automation:
+
+## Continuous Integration:
 
 * https://blog.codecentric.de/en/2015/10/continuous-integration-platform-using-docker-container-jenkins-sonarqube-nexus-gitlab/
 
-## Continuous Delivery
+## Continuous Delivery:
 
 * http://blogs.atlassian.com/tag/cd-skeptics/
 * http://www.devopsdays.org/blog/wp-content/uploads/2010/11/jez-humble-continuous_delivery_devopsdays_2010.pdf
 * https://blog.codecentric.de/en/2015/01/continuous-delivery-microservices-jenkins-job-dsl-plugin/
 
 
-## Infrastructure As Code
+## Infrastructure As Code:
 
 * https://atomic-penguin.github.io/blog/2014/04/29/stupid-jenkins-and-chef-tricks-part-1-rubocop/
 * https://atomic-penguin.github.io/blog/2014/05/16/stupid-jenkins-tricks-part-2-cookbook-pipelines/
@@ -72,36 +75,37 @@
 * https://www.chef.io/blog/2015/04/21/overview-of-test-driven-infrastructure-with-chef/
 
 
-## Monitoring
+## Monitoring:
 
-## Logging
+## Logging:
 
-## IAAS Providers
+## IAAS Providers:
 
-### AWS
+### AWS:
 * https://cloudonaut.io/5-aws-mistakes-you-should-avoid/
 * https://cloudnative.io/blog/2015/03/aws-route-53-best-practices/
 
 
-## PAAS Providers
+## PAAS Providers:
 
-## Containerisation
+## Containerisation:
 
-## Microservices
+## Microservices:
 
-## Anti Patterns
+## Anti Patterns:
+
 * http://dougireton.com/blog/2013/02/16/chef-cookbook-anti-patterns/
 * https://www.chef.io/blog/2013/11/19/chef-roles-arent-evil/
 
 
-## Languages
+## Languages:
 
-### Golang
+### Golang:
 
 * https://github.com/avelino/awesome-go
 * https://tour.golang.org/
 
-### Distributed Systems
+### Distributed Systems:
 
 * http://bravenewgeek.com/distributed-systems-are-a-ux-problem/
 
@@ -116,12 +120,13 @@
 ## Conferences:
 
 ## Contributing:
+
 Contributions are most welcome!
 
 This list is just getting started, please contribute to make it super awesome.
 
 Check out the [Contributing Guidelines](https://github.com/TheRemoteLab/awesome-learning/blob/master/CONTRIBUTING.md).
 
-## License: :copyright:
+## License:
 
   <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/InteractiveResource" property="dct:title" rel="dct:type">awesome-learning</span> by <a xmlns:cc="http://creativecommons.org" href="http://www.linkedin.com/company/the-remote-lab" property="cc:attributionName" rel="cc:attributionURL">The Remote Lab</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
