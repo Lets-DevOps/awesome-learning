@@ -8,34 +8,28 @@
 
 ### Hello world! We will try our best to make sure this is the finest curated list of all DevOps resources at one place. Help us by fixing our mistakes and adding more useful links. Thanks!
 
-* [Philosophy](#philosophy) :thought_balloon:
-* [Processes](#processes) :speech_balloon:
-* [Source Code Management](#source-code-management) :octocat:
-* [Build Automation](#build-automation) :arrows_counterclockwise:
-* [Continuous Integration](#continuos-integration) :arrows_counterclockwise:
-* [Continuous Delivery](#continuous-delivery) :arrows_counterclockwise:
-* [Infrastructure As Code](#infrastructre-as-code) :loop:
-* [Monitoring](#monitoring) :bar_chart:
-* [Logging](#logging) :page_facing_up:
-* [IAAS Providers](#iaas-providers) :cloud:
-* [PAAS Providers](#paas-providers) :cloud:
-* [Containerisation](#containerisation) :ship:
-* [MicroServices](#microservices) :microscope:
-
-* [Anti Patterns](#anti-patterns) :no_entry_sign:
 
 
-* [Languages](#languages) :pencil:
-* [Books](#books) :books:
-* [Slide Presentations](#slide-presentations)
-* [Videos](#videos) :tv:
+| [Philosophy](#philosophy) :thought_balloon: | [Processes](#processes) :speech_balloon: | [Source Code Management](#source-code-management) :octocat: | [Build Automation](#build-automation) :arrows_counterclockwise: | [Continuous Integration](#continuos-integration) :arrows_counterclockwise: | [Continuous Delivery](#continuous-delivery) :arrows_counterclockwise: |
+|---------------------------------------------|------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------------|
+|                                             |                                          |                                                             |                                                                 |                                                                            |                                                                       |
+
+| [Infrastructure As Code](#infrastructre-as-code) :loop: | [Monitoring](#monitoring) :bar_chart: | [Logging](#logging) :page_facing_up: | [IAAS Providers](#iaas-providers) :cloud: | [PAAS Providers](#paas-providers) :cloud: | [Containerisation](#containerisation) :ship: |
+|---------------------------------------------------------|---------------------------------------|--------------------------------------|-------------------------------------------|-------------------------------------------|----------------------------------------------|
+|                                                         |                                       |                                      |                                           |                                           |                                              |
+
+| [MicroServices](#microservices) :microscope: | [Anti Patterns](#anti-patterns) :no_entry_sign: | [Languages](#languages) :pencil: | [Books](#books) :books: | [Slide Presentations](#slide-presentations) | [Videos](#videos) :tv: |
+|----------------------------------------------|-------------------------------------------------|----------------------------------|-------------------------|---------------------------------------------|------------------------|
+|                                              |                                                 |                                  |                         |                                             |                        |
+
+
 * [Conferences and Meet-ups](#conferences) :video_camera:
 * [Contributing](#contributing)
 * [License](#license)
 
 ## Philosophy
 ## Processes
-## Source Code Manegement
+## Source Code Management
 
 * https://guides.github.com/activities/contributing-to-open-source/
 * https://www.atlassian.com/git/tutorials/comparing-workflows/
