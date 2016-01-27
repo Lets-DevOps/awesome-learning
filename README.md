@@ -32,8 +32,8 @@
 
 ## Processes
 
-* [http://brassy.net/articles/getting-in-to-devops/](I want to be a DevOps!)
-* [https://medium.com/aws-activate-startup-blog/hiring-a-cloud-engineer-questions-to-ask-and-what-you-should-hear-12a960d97163](Hiring a Cloud Engineer? Questions to Ask and What You Should Hear)
+* [I want to be a DevOps!](http://brassy.net/articles/getting-in-to-devops/)
+* [Hiring a Cloud Engineer? Questions to Ask and What You Should Hear](https://medium.com/aws-activate-startup-blog/hiring-a-cloud-engineer-questions-to-ask-and-what-you-should-hear-12a960d97163)
 
 ## Source Code Management
 
@@ -88,13 +88,13 @@
 * https://cloudonaut.io/5-aws-mistakes-you-should-avoid/
 * https://cloudnative.io/blog/2015/03/aws-route-53-best-practices/
 * [A Beginner's Guide to Scaling to 11 Million+ Users on Amazon's AWS](http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html)
-* [https://cloudonaut.io/rolling-update-with-aws-cloudformation/](Rolling Update with AWS CloudFormation)
+* [Rolling Update with AWS CloudFormation](https://cloudonaut.io/rolling-update-with-aws-cloudformation/)
 
 ### Containers
 
 * [http://omerio.com/2015/12/18/learn-the-kubernetes-key-concepts-in-10-minutes/](Learn the Kubernetes Key Concepts in 10 Minutes)
 * [https://github.com/ClusterHQ/dvol](Version control your development databases in docker)
-* [https://github.com/lukasmartinelli/hadolint](Dockerfile Linter)
+* [Dockerfile Linter](https://github.com/lukasmartinelli/hadolint)
 
 ### DevOps Culture
 
@@ -118,7 +118,7 @@
 
 ## Security
 
-* [https://github.com/jlund/streisand](Streisand - sets up a brand new server running a wide variety of anti-censorship software)
+* [Streisand - sets up a brand new server running a wide variety of anti-censorship software](https://github.com/jlund/streisand)
 
 ## Languages:
 
@@ -137,7 +137,7 @@
 
 ### Shell
 
-* [https://github.com/koalaman/shellcheck](ShellCheck - A shell script static analysis tool)
+* [ShellCheck - A shell script static analysis tool](https://github.com/koalaman/shellcheck)
 
 ## Distributed Systems:
 
