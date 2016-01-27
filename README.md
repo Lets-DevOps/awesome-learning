@@ -20,7 +20,7 @@
 
 | [MicroServices](#microservices) :microscope: | [Anti Patterns](#anti-patterns) :no_entry_sign: | [Security](#security) :lock: | [Languages](#languages) :pencil: | [Books](#books) :books: | [Slide Presentations](#slide-presentations) | [Videos](#videos) :tv: |
 |----------------------------------------------|-------------------------------------------------|----------------------------------|-------------------------|---------------------------------------------|------------------------|
-|                                              |                                                 |                                  |                         |                                             |                        |
+|                                              |                                                 |                                  |                         |                                              |                                                 |                                  |
 
 
 * [Conferences and Meet-ups](#conferences) :video_camera:
