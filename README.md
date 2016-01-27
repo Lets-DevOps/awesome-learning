@@ -1,6 +1,3 @@
-
-# 
-
 # awesome-learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/TheRemoteLab/awesome-learning.svg?branch=master)](https://travis-ci.org/TheRemoteLab/awesome-learning)
 
 ... because learning DevOps is awesome
@@ -21,9 +18,9 @@
 |---------------------------------------------------------|---------------------------------------|--------------------------------------|-------------------------------------------|-------------------------------------------|----------------------------------------------|
 |                                                         |                                       |                                      |                                           |                                           |                                              |
 
-| [MicroServices](#microservices) :microscope: | [Anti Patterns](#anti-patterns) :no_entry_sign: | [Languages](#languages) :pencil: | [Books](#books) :books: | [Slide Presentations](#slide-presentations) | [Videos](#videos) :tv: |
-|----------------------------------------------|-------------------------------------------------|----------------------------------|-------------------------|---------------------------------------------|------------------------|
-|                                              |                                                 |                                  |                         |                                             |                        |
+| [MicroServices](#microservices) :microscope: | [Anti Patterns](#anti-patterns) :no_entry_sign: | [Security](#security) :lock: | [Languages](#languages) :pencil: | [Books](#books) :books: | [Slide Presentations](#slide-presentations) | [Videos](#videos) :tv: |
+|----------------------------------------------|-------------------------------------------------|------------------------------|----------------------------------|---------------------------------------------|--------------------------|-----------------------|
+|                                              |                                                 |                                  |                         |                                              |                                                 |                                  |
 
 
 * [Conferences and Meet-ups](#conferences) :video_camera:
@@ -34,6 +31,10 @@
 ## Philosophy
 
 ## Processes
+
+* [I want to be a DevOps!](http://brassy.net/articles/getting-in-to-devops/)
+* [Hiring a Cloud Engineer? Questions to Ask and What You Should Hear](https://medium.com/aws-activate-startup-blog/hiring-a-cloud-engineer-questions-to-ask-and-what-you-should-hear-12a960d97163)
+* [How To Write A Good Status Update](http://blog.statuspage.io/how-to-write-a-good-status-update)
 
 ## Source Code Management
 
@@ -77,7 +78,7 @@
 * https://github.com/chef/chef-summit-2014/wiki/Workflow-Best-Practices
 * http://railsware.com/blog/2013/02/21/chef-dos-and-donts/
 * https://www.chef.io/blog/2015/04/21/overview-of-test-driven-infrastructure-with-chef/
-
+* [Why Bosh? I just learnt Chef!](https://speakerdeck.com/drnic/why-bosh-i-just-learnt-chef)
 
 ## Monitoring:
 
@@ -86,14 +87,17 @@
 ## IAAS Providers:
 
 ### AWS:
-* https://cloudonaut.io/5-aws-mistakes-you-should-avoid/
-* https://cloudnative.io/blog/2015/03/aws-route-53-best-practices/
+* [5 AWS Mistakes You Should Avoid](https://cloudonaut.io/5-aws-mistakes-you-should-avoid/)
+* [AWS Route 53 Best Practices](https://cloudnative.io/blog/2015/03/aws-route-53-best-practices/)
 * [A Beginner's Guide to Scaling to 11 Million+ Users on Amazon's AWS](http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html)
+* [Rolling Update with AWS CloudFormation](https://cloudonaut.io/rolling-update-with-aws-cloudformation/)
+* [AWS Shell](https://github.com/awslabs/aws-shell)
 
 ### Containers
 
 * [http://omerio.com/2015/12/18/learn-the-kubernetes-key-concepts-in-10-minutes/](Learn the Kubernetes Key Concepts in 10 Minutes)
 * [https://github.com/ClusterHQ/dvol](Version control your development databases in docker)
+* [Dockerfile Linter](https://github.com/lukasmartinelli/hadolint)
 
 ### DevOps Culture
 
@@ -103,7 +107,6 @@
 ## Scalability
 
 * [https://gist.github.com/acolyer/95ef23802803cb8b4eb5](Internet Scale Services Checklist)
-
 
 ## PAAS Providers:
 
@@ -116,6 +119,10 @@
 * http://dougireton.com/blog/2013/02/16/chef-cookbook-anti-patterns/
 * https://www.chef.io/blog/2013/11/19/chef-roles-arent-evil/
 
+## Security
+
+* [Streisand - sets up a brand new server running a wide variety of anti-censorship software](https://github.com/jlund/streisand)
+* [Install, configure and automatically renew Let's Encrypt SSL certificate](https://vincent.composieux.fr/article/install-configure-and-automatically-renew-let-s-encrypt-ssl-certificate)
 
 ## Languages:
 
@@ -127,14 +134,16 @@
 
 * http://tryruby.org/levels/1/challenges/0
 
-
 ### Golang:
-
 
 * https://github.com/avelino/awesome-go
 * https://tour.golang.org/
 
-### Distributed Systems:
+### Shell
+
+* [ShellCheck - A shell script static analysis tool](https://github.com/koalaman/shellcheck)
+
+## Distributed Systems:
 
 * http://bravenewgeek.com/distributed-systems-are-a-ux-problem/
 
