@@ -38,13 +38,14 @@
 
 ## Source Code Management
 
-* https://guides.github.com/activities/contributing-to-open-source/
-* https://www.atlassian.com/git/tutorials/comparing-workflows/
-* https://vimeo.com/channels/githubguides
-* http://semver.org/ - versioning basics
-* http://stackoverflow.com/questions/3611256/forking-vs-branching-in-github
-* http://stackoverflow.com/questions/19333088/how-is-svn-v-1-8-branching-merging-compared-to-git
-* https://julien.danjou.info/blog/2013/rant-about-github-pull-request-workflow-implementation - Git Pull-Request Vs Gerrit
+- [ ] [Gitignore exmpales - Ignoring what shouldn't go inside your codebase](https://github.com/github/gitignore) 
+- [ ] [Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/)
+- [ ] [Useful Git Workflows - Comparison as well](https://www.atlassian.com/git/tutorials/comparing-workflows/)
+- [ ] [GitHub Training & Guides](https://vimeo.com/channels/githubguides)
+- [ ] [Versioning 101](http://semver.org/)
+- [ ] [Forking Vs Branching](http://stackoverflow.com/questions/3611256/forking-vs-branching-in-github)
+- [ ] [How is SVN v 1.8 branching / merging compared to Git?](http://stackoverflow.com/questions/19333088/how-is-svn-v-1-8-branching-merging-compared-to-git)
+- [ ] [Code Reviews - Git Pull Requests Vs Gerrit](https://julien.danjou.info/blog/2013/rant-about-github-pull-request-workflow-implementation)
 
 ## Build Automation:
 
