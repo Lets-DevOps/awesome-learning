@@ -44,6 +44,7 @@
 - [ ] [Hiring a Cloud Engineer? Questions to Ask and What You Should Hear](https://medium.com/aws-activate-startup-blog/hiring-a-cloud-engineer-questions-to-ask-and-what-you-should-hear-12a960d97163)
 - [ ] [How To Write A Good Status Update](http://blog.statuspage.io/how-to-write-a-good-status-update)
 - [ ] [Communication and Collaboration across teams](http://theremotelab.io/blog/slack+trello/)
+- [ ] [5 Expert Recommendations when Hiring a DevOps Engineer](http://blog.flux7.com/5-expert-recommendations-when-hiring-a-devops-engineer)
 
 ## Source Code Management
 
@@ -61,6 +62,7 @@
 ## Continuous Integration:
 
 - [ ] [CI Using Docker platform - Jenkins, SonarQube, Nexus, Gitlab](https://blog.codecentric.de/en/2015/10/continuous-integration-platform-using-docker-container-jenkins-sonarqube-nexus-gitlab/)
+- [ ] [Six rules for setting up continuous integration systems](https://rhonabwy.com/2016/01/31/six-rules-for-setting-up-continuous-integration-systems/)
 
 ## Continuous Delivery:
 
@@ -111,8 +113,13 @@
 ## Scalability
 
 - [ ] [Internet Scale Services Checklist](https://gist.github.com/acolyer/95ef23802803cb8b4eb5)
+- [ ] [How to build stable systems](https://medium.com/@jlouis666/how-to-build-stable-systems-6fe9dcf32fc4#.hvzrpdbw2)
+- [ ] [Zookeeper](http://www.slideshare.net/scottleber/apache-zookeeper)
+- [ ] [Haproxy Best Practices](http://www.slideshare.net/haproxytech/haproxy-best-practice)
 
 ## PAAS Providers:
+
+- [ ] [PaaSTA: An Open, Distributed, Platform as a Service](http://engineeringblog.yelp.com/2015/11/introducing-paasta-an-open-platform-as-a-service.html)
 
 ## Containerisation:
 
@@ -124,6 +131,9 @@
 
 ## Microservices:
 
+- [ ] [Creating a Microservice? Answer these 10 Questions First](https://www.datawire.io/creating-a-microservice-answer-these-10-questions-first/)
+
+
 ## Anti Patterns:
 
 - [ ] [Chef Cookbook anti-patterns](http://dougireton.com/blog/2013/02/16/chef-cookbook-anti-patterns/)
@@ -133,6 +143,7 @@
 
 - [ ] [Streisand - sets up a brand new server running a wide variety of anti-censorship software](https://github.com/jlund/streisand)
 - [ ] [Install, configure and automatically renew Let's Encrypt SSL certificate](https://vincent.composieux.fr/article/install-configure-and-automatically-renew-let-s-encrypt-ssl-certificate)
+- [ ] [Security Guide: How to Protect Your Infrastructure Against the Basic Attacker](http://blog.mailgun.com/security-guide-basic-infrastructure-security/)
 
 ## Languages:
 
