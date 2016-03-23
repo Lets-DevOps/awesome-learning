@@ -56,6 +56,7 @@
 - [ ] [Forking Vs Branching](http://stackoverflow.com/questions/3611256/forking-vs-branching-in-github)
 - [ ] [How is SVN v 1.8 branching / merging compared to Git?](http://stackoverflow.com/questions/19333088/how-is-svn-v-1-8-branching-merging-compared-to-git)
 - [ ] [Code Reviews - Git Pull Requests Vs Gerrit](https://julien.danjou.info/blog/2013/rant-about-github-pull-request-workflow-implementation)
+- [ ] [Zappr - Approvals for Github PRs - By Zalando](https://zappr.opensource.zalan.do/login)
 
 ## Build Automation:
 
