@@ -78,7 +78,6 @@
 - [ ] [Why Bosh? I just learnt Chef!](https://speakerdeck.com/drnic/why-bosh-i-just-learnt-chef)
 - [ ] [Chef - Tips and Tricks -1](https://raymii.org/s/tutorials/Chef_search_in_recipe_on_roles_or_recipes.html)
 - [ ] [Chef - Tips and Tricks -2](http://dougireton.com/blog/2013/02/03/knife-tricks/)
-- [ ] [Chef - Best Practices -1](https://shellycloud.com/blog/2015/06/chef-best-practices)
 - [ ] [Chef - Best Practices -2](http://www.prashantrajan.com/2013/06/14/leveling-up-chef-best-practices.html)
 - [ ] [Chef - Best Practices -3](http://serverfault.com/questions/314990/chef-best-practices-questions)
 - [ ] [Chef - Cookbook versioning - 1](http://serverfault.com/questions/513976/best-strategy-to-keep-chef-cookbooks-versions-under-control)
