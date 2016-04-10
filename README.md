@@ -124,11 +124,18 @@
 
 ## Containerisation:
 
+- [ ] [LXC Introduction](https://linuxcontainers.org/lxc/introduction/)
 - [ ] [Dockerfile for beginners](theremotelab.io/blog/dockerfile-for-beginners/)
 - [ ] [Docker - Intermediate and Dangling Images](http://theremotelab.io/blog/intermediate-dangling-docker-images/)
 - [ ] [http://omerio.com/2015/12/18/learn-the-kubernetes-key-concepts-in-10-minutes/](Learn the Kubernetes Key Concepts in 10 Minutes)
 - [ ] [https://github.com/ClusterHQ/dvol](Version control your development databases in docker)
 - [ ] [Dockerfile Linter](https://github.com/lukasmartinelli/hadolint)
+- [ ] [Namespaces Overview](http://lwn.net/Articles/531114/)
+- [ ] [User namespaces have arrived in Docker!](http://integratedcode.us/2015/10/13/user-namespaces-have-arrived-in-docker/)
+- [ ] [Vagrant Or Docker?](http://stackoverflow.com/questions/16647069/should-i-use-vagrant-or-docker-for-creating-an-isolated-environment)
+- [ ] [Docker Vs Virtual Machine](https://stackoverflow.com/questions/16047306/how-is-docker-different-from-a-normal-virtual-machine)
+- [ ] [Containers are not VMs](https://blog.docker.com/2016/03/containers-are-not-vms/)
+- [ ] [Containers and VMs Together](https://blog.docker.com/2016/04/containers-and-vms-together/)
 
 ## Microservices:
 
