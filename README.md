@@ -123,6 +123,8 @@
 
 ## Containerisation:
 
+- [ ] [Decisions needed to run Docker in Production](http://blog.cloud66.com/9-crtitical-decisions-needed-to-run-docker-in-production/)
+
 - [ ] [LXC Introduction](https://linuxcontainers.org/lxc/introduction/)
 - [ ] [Dockerfile for beginners](theremotelab.io/blog/dockerfile-for-beginners/)
 - [ ] [Docker - Intermediate and Dangling Images](http://theremotelab.io/blog/intermediate-dangling-docker-images/)
