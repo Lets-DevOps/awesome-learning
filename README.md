@@ -124,12 +124,11 @@
 ## Containerisation:
 
 - [ ] [Decisions needed to run Docker in Production](http://blog.cloud66.com/9-crtitical-decisions-needed-to-run-docker-in-production/)
-
 - [ ] [LXC Introduction](https://linuxcontainers.org/lxc/introduction/)
 - [ ] [Dockerfile for beginners](theremotelab.io/blog/dockerfile-for-beginners/)
 - [ ] [Docker - Intermediate and Dangling Images](http://theremotelab.io/blog/intermediate-dangling-docker-images/)
-- [ ] [http://omerio.com/2015/12/18/learn-the-kubernetes-key-concepts-in-10-minutes/](Learn the Kubernetes Key Concepts in 10 Minutes)
-- [ ] [https://github.com/ClusterHQ/dvol](Version control your development databases in docker)
+- [ ] [Learn the Kubernetes Key Concepts in 10 Minutes](http://omerio.com/2015/12/18/learn-the-kubernetes-key-concepts-in-10-minutes/)
+- [ ] [Version control your development databases in docker](https://github.com/ClusterHQ/dvol)
 - [ ] [Dockerfile Linter](https://github.com/lukasmartinelli/hadolint)
 - [ ] [Namespaces Overview](http://lwn.net/Articles/531114/)
 - [ ] [User namespaces have arrived in Docker!](http://integratedcode.us/2015/10/13/user-namespaces-have-arrived-in-docker/)
