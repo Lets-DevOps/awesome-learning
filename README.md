@@ -136,6 +136,7 @@
 - [ ] [Docker Vs Virtual Machine](https://stackoverflow.com/questions/16047306/how-is-docker-different-from-a-normal-virtual-machine)
 - [ ] [Containers are not VMs](https://blog.docker.com/2016/03/containers-are-not-vms/)
 - [ ] [Containers and VMs Together](https://blog.docker.com/2016/04/containers-and-vms-together/)
+- [ ] [Docker and 12FA -  A perfect Couple](https://medium.com/@kelseyhightower/12-fractured-apps-1080c73d481c#.ex6xwlqy2)
 
 ## Microservices:
 
