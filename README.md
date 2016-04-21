@@ -43,7 +43,7 @@
 - [ ] [I want to be a DevOps!](http://brassy.net/articles/getting-in-to-devops/)
 - [ ] [Hiring a Cloud Engineer? Questions to Ask and What You Should Hear](https://medium.com/aws-activate-startup-blog/hiring-a-cloud-engineer-questions-to-ask-and-what-you-should-hear-12a960d97163)
 - [ ] [How To Write A Good Status Update](http://blog.statuspage.io/how-to-write-a-good-status-update)
-- [ ] [Communication and Collaboration across teams](http://theremotelab.io/blog/slack+trello/)
+- [ ] [Communication and Collaboration across teams](http://theremotelab.com/blog/slack+trello/)
 - [ ] [5 Expert Recommendations when Hiring a DevOps Engineer](http://blog.flux7.com/5-expert-recommendations-when-hiring-a-devops-engineer)
 
 ## Source Code Management
@@ -106,8 +106,8 @@
 - [ ] [A Beginner's Guide to Scaling to 11 Million+ Users on Amazon's AWS](http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html)
 - [ ] [Rolling Update with AWS CloudFormation](https://cloudonaut.io/rolling-update-with-aws-cloudformation/)
 - [ ] [AWS Shell](https://github.com/awslabs/aws-shell)
-- [ ] [AWS Inspector - Security](http://theremotelab.io/blog/aws-inspector-introduction/)
-- [ ] [AWS VPC - Fundamentals](http://theremotelab.io/blog/aws-vpc-concepts/)
+- [ ] [AWS Inspector - Security](http://theremotelab.com/blog/aws-inspector-introduction/)
+- [ ] [AWS VPC - Fundamentals](http://theremotelab.com/blog/aws-vpc-concepts/)
 
 
 ## Scalability
@@ -125,8 +125,8 @@
 
 - [ ] [Decisions needed to run Docker in Production](http://blog.cloud66.com/9-crtitical-decisions-needed-to-run-docker-in-production/)
 - [ ] [LXC Introduction](https://linuxcontainers.org/lxc/introduction/)
-- [ ] [Dockerfile for beginners](theremotelab.io/blog/dockerfile-for-beginners/)
-- [ ] [Docker - Intermediate and Dangling Images](http://theremotelab.io/blog/intermediate-dangling-docker-images/)
+- [ ] [Dockerfile for beginners](theremotelab.com/blog/dockerfile-for-beginners/)
+- [ ] [Docker - Intermediate and Dangling Images](http://theremotelab.com/blog/intermediate-dangling-docker-images/)
 - [ ] [Learn the Kubernetes Key Concepts in 10 Minutes](http://omerio.com/2015/12/18/learn-the-kubernetes-key-concepts-in-10-minutes/)
 - [ ] [Version control your development databases in docker](https://github.com/ClusterHQ/dvol)
 - [ ] [Dockerfile Linter](https://github.com/lukasmartinelli/hadolint)
