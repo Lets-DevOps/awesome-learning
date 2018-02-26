@@ -159,6 +159,7 @@
 ### Python
 
 * Python 2.7 - https://docs.python.org/2/tutorial/
+* Curated Python Learning Resources - https://hackr.io/tutorials/learn-python/
 
 ### Ruby
 
