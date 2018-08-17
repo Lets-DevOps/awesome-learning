@@ -48,7 +48,7 @@
 
 ## Source Code Management
 
-- [ ] [Gitignore exmpales - Ignoring what shouldn't go inside your codebase](https://github.com/github/gitignore)
+- [ ] [Gitignore examples - Ignoring what shouldn't go inside your codebase](https://github.com/github/gitignore)
 - [ ] [Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/)
 - [ ] [Useful Git Workflows - Comparison as well](https://www.atlassian.com/git/tutorials/comparing-workflows/)
 - [ ] [GitHub Training & Guides](https://vimeo.com/channels/githubguides)
