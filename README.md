@@ -37,6 +37,7 @@
 
 - [ ] [Five years, building a culture, and handing it off](http://laughingmeme.org/2015/08/31/five-years-building-a-culture-and-handing-it-off/)
 - [ ] [3 characteristics of an effective cloud developer](http://www.thoughtsoncloud.com/2015/10/3-characteristics-of-an-effective-cloud-developer/)
+- [ ] [The Must Know Checklist For DevOps & Site Reliability Engineers](https://medium.com/faun/the-must-know-checklist-for-devops-system-reliability-engineers-f74c1cbf259d)
 
 ## Processes
 
