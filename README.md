@@ -91,6 +91,7 @@
 - [ ] [Chef and Jenkins -2](https://atomic-penguin.github.io/blog/2014/05/16/stupid-jenkins-tricks-part-2-cookbook-pipelines/)
 - [ ] [Foodcritic - Helpful lint tool](http://www.foodcritic.io/)
 - [ ] [Chef Vs Puppet](http://pierrerambaud.com/blog/devops/chef-vs-puppet)
+- [ ] [Essential Infrastructure as Code](https://www.manning.com/books/essential-infrastructure-as-code)
 
 
 ## Monitoring:
