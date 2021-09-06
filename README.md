@@ -72,6 +72,7 @@
 - [ ] [Continuous Delivery - Jez Humble](http://www.devopsdays.org/blog/wp-content/uploads/2010/11/jez-humble-continuous_delivery_devopsdays_2010.pdf)
 - [ ] [CD using Jenkins DSL Plugin](https://blog.codecentric.de/en/2015/01/continuous-delivery-microservices-jenkins-job-dsl-plugin/)
 - [ ] [Continuous Integration (CI) vs. Continuous Delivery (CD) vs. Continuous Deployment (CD)](https://humanitec.com/blog/continuous-integration-vs-continuous-delivery-vs-continuous-deployment/)
+- [ ] [Grokking Continuous Delivery](https://www.manning.com/books/grokking-continuous-delivery)
 
 
 ## Infrastructure As Code:
