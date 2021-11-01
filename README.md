@@ -73,6 +73,7 @@
 - [ ] [CD using Jenkins DSL Plugin](https://blog.codecentric.de/en/2015/01/continuous-delivery-microservices-jenkins-job-dsl-plugin/)
 - [ ] [Continuous Integration (CI) vs. Continuous Delivery (CD) vs. Continuous Deployment (CD)](https://humanitec.com/blog/continuous-integration-vs-continuous-delivery-vs-continuous-deployment/)
 - [ ] [Grokking Continuous Delivery](https://www.manning.com/books/grokking-continuous-delivery)
+- [ ] [Pipeline as Code](https://www.manning.com/books/pipeline-as-code)
 
 
 ## Infrastructure As Code:
