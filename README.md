@@ -72,6 +72,8 @@
 - [ ] [Continuous Delivery - Jez Humble](http://www.devopsdays.org/blog/wp-content/uploads/2010/11/jez-humble-continuous_delivery_devopsdays_2010.pdf)
 - [ ] [CD using Jenkins DSL Plugin](https://blog.codecentric.de/en/2015/01/continuous-delivery-microservices-jenkins-job-dsl-plugin/)
 - [ ] [Continuous Integration (CI) vs. Continuous Delivery (CD) vs. Continuous Deployment (CD)](https://humanitec.com/blog/continuous-integration-vs-continuous-delivery-vs-continuous-deployment/)
+- [ ] [Grokking Continuous Delivery](https://www.manning.com/books/grokking-continuous-delivery)
+- [ ] [Pipeline as Code](https://www.manning.com/books/pipeline-as-code)
 
 
 ## Infrastructure As Code:
@@ -91,6 +93,7 @@
 - [ ] [Chef and Jenkins -2](https://atomic-penguin.github.io/blog/2014/05/16/stupid-jenkins-tricks-part-2-cookbook-pipelines/)
 - [ ] [Foodcritic - Helpful lint tool](http://www.foodcritic.io/)
 - [ ] [Chef Vs Puppet](http://pierrerambaud.com/blog/devops/chef-vs-puppet)
+- [ ] [Essential Infrastructure as Code](https://www.manning.com/books/essential-infrastructure-as-code)
 
 
 ## Monitoring:
