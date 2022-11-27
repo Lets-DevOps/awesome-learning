@@ -46,6 +46,7 @@
 - [ ] [How To Write A Good Status Update](http://blog.statuspage.io/how-to-write-a-good-status-update)
 - [ ] [Communication and Collaboration across teams](http://theremotelab.com/blog/slack+trello/)
 - [ ] [5 Expert Recommendations when Hiring a DevOps Engineer](http://blog.flux7.com/5-expert-recommendations-when-hiring-a-devops-engineer)
+- [ ] [16 DevOps Best Practices Every Developer Should Know](https://spacelift.io/blog/devops-best-practices)
 
 ## Source Code Management
 
@@ -142,6 +143,7 @@
 - [ ] [Containers are not VMs](https://blog.docker.com/2016/03/containers-are-not-vms/)
 - [ ] [Containers and VMs Together](https://blog.docker.com/2016/04/containers-and-vms-together/)
 - [ ] [Docker and 12FA -  A perfect Couple](https://medium.com/@kelseyhightower/12-fractured-apps-1080c73d481c#.ex6xwlqy2)
+- [ ] [Kubernetes Tutorial for Beginners – Basic Concepts and Examples](https://spacelift.io/blog/kubernetes-tutorial)
 
 ## Microservices:
 
