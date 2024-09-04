@@ -165,6 +165,7 @@
 
 ### Python
 
+* Python 3.12 - https://docs.python.org/3.12/tutorial/
 * Python 2.7 - https://docs.python.org/2/tutorial/
 * Curated Python Learning Resources - https://hackr.io/tutorials/learn-python/
 * Free Resouces to Python tutorials - https://www.scaler.com/topics/python/
