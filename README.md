@@ -144,6 +144,7 @@
 - [ ] [Containers and VMs Together](https://blog.docker.com/2016/04/containers-and-vms-together/)
 - [ ] [Docker and 12FA -  A perfect Couple](https://medium.com/@kelseyhightower/12-fractured-apps-1080c73d481c#.ex6xwlqy2)
 - [ ] [Kubernetes Tutorial for Beginners – Basic Concepts and Examples](https://spacelift.io/blog/kubernetes-tutorial)
+- [ ] [KubeStellar Console — AI-powered multi-cluster Kubernetes dashboard](https://github.com/kubestellar/console) - Open source dashboard with real-time observability, AI-guided operations, and 20+ CNCF integrations. CNCF Sandbox project.
 
 ## Microservices:
 
