@@ -144,6 +144,7 @@
 - [ ] [Containers and VMs Together](https://blog.docker.com/2016/04/containers-and-vms-together/)
 - [ ] [Docker and 12FA -  A perfect Couple](https://medium.com/@kelseyhightower/12-fractured-apps-1080c73d481c#.ex6xwlqy2)
 - [ ] [Kubernetes Tutorial for Beginners – Basic Concepts and Examples](https://spacelift.io/blog/kubernetes-tutorial)
+- [ ] [Docker and Kubernetes terminal simulators](https://devops-daily.com/games) - Practice real docker and kubectl commands in the browser, no cluster needed.
 
 ## Microservices:
 
