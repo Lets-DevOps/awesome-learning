@@ -114,6 +114,8 @@
 - [ ] [AWS Shell](https://github.com/awslabs/aws-shell)
 - [ ] [AWS Inspector - Security](http://theremotelab.com/blog/aws-inspector-introduction/)
 - [ ] [AWS VPC - Fundamentals](http://theremotelab.com/blog/aws-vpc-concepts/)
+- [ ] [AWS Beginner Tutorial](https://devopslesson.com/tutorials/aws/introduction-to-aws/)
+- [ ] [AWS for DevOps Engineers](https://medium.com/@devopslesson/aws-for-devops-engineers-the-only-services-you-actually-need-to-know-first-e188aeacd8fe/)
 
 
 ## Scalability
@@ -145,6 +147,7 @@
 - [ ] [Docker and 12FA -  A perfect Couple](https://medium.com/@kelseyhightower/12-fractured-apps-1080c73d481c#.ex6xwlqy2)
 - [ ] [Kubernetes Tutorial for Beginners – Basic Concepts and Examples](https://spacelift.io/blog/kubernetes-tutorial)
 - [ ] [Docker and Kubernetes terminal simulators](https://devops-daily.com/games) - Practice real docker and kubectl commands in the browser, no cluster needed.
+- [ ] [DevOpsLesson Interactive Playgrounds](https://devopslesson.com/playground) - Practice real Docker, Kubernetes, Terraform, and Linux commands in a browser terminal with guided, auto-checked labs. No install, no signup.
 
 ## Microservices:
 
@@ -224,4 +227,5 @@ Check out the [Contributing Guidelines](https://github.com/TheRemoteLab/awesome-
 ## Roadmap:
 
 - [ ] [DevOps Roadmap](https://roadmap.sh/devops)
+- [ ] [DevOpsLesson Roadmaps](https://devopslesson.com/roadmaps) - Step-by-step DevOps Engineer, Cloud Engineer, and SRE roadmaps with hands-on tutorials and playgrounds.
 
