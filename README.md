@@ -59,6 +59,7 @@
 - [ ] [How is SVN v 1.8 branching / merging compared to Git?](http://stackoverflow.com/questions/19333088/how-is-svn-v-1-8-branching-merging-compared-to-git)
 - [ ] [Code Reviews - Git Pull Requests Vs Gerrit](https://julien.danjou.info/blog/2013/rant-about-github-pull-request-workflow-implementation)
 - [ ] [Zappr - Approvals for Github PRs - By Zalando](https://zappr.opensource.zalan.do/login)
+- [ ] [Git Workflows: GitFlow vs GitHub Flow vs Trunk-Based Development](https://devtoolhub.com/git-workflows-gitflow-githubflow-trunk-based/) - Comparison of branching models by team size and release cadence.
 
 ## Build Automation:
 
