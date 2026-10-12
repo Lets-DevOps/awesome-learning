@@ -149,6 +149,7 @@
 ## Microservices:
 
 - [ ] [Creating a Microservice? Answer these 10 Questions First](https://www.datawire.io/creating-a-microservice-answer-these-10-questions-first/)
+- [ ] [What Is Service Virtualization: Definition, Types & Tools](https://keploy.io/blog/community/service-virtualization) - Guide to simulating dependent services so microservices can be developed and tested without their live dependencies.
 
 
 ## Anti Patterns:
