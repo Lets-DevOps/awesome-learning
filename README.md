@@ -60,6 +60,7 @@
 - [ ] [Code Reviews - Git Pull Requests Vs Gerrit](https://julien.danjou.info/blog/2013/rant-about-github-pull-request-workflow-implementation)
 - [ ] [Zappr - Approvals for Github PRs - By Zalando](https://zappr.opensource.zalan.do/login)
 - [ ] [How to Handle Merge Conflicts in Git](https://devtoolhub.com/how-to-handle-merge-conflicts-in-git/) - Resolving conflicts at the command line, step by step, including the tricky rebase/cherry-pick cases.
+- [ ] [Git Recover Lost Commits: 12 Fixes for Common Mistakes](https://devtoolhub.com/git-recover-lost-commits/) - Article: getting back deleted branches, bad resets and dropped stashes with reflog and fsck, each fix tested on Git 2.56.
 ## Build Automation:
 
 ## Continuous Integration:
